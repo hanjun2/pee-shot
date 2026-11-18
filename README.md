@@ -1,4 +1,4 @@
-# 오줌 발싸 · FLUSH PROTOCOL
+# 오줌 발싸 · pee shot
 
 Django와 JavaScript/Three.js로 만든 브라우저 1인칭 액션 게임입니다. 집에서 시작해 화장실 전투로 이어집니다.
 
