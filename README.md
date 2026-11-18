@@ -7,8 +7,8 @@ Django와 JavaScript/Three.js로 만든 브라우저 1인칭 액션 게임입니
 Python 3.11 이상이 필요합니다. Windows PowerShell 기준:
 
 ```powershell
-git clone https://github.com/hanjun2/flush-protocol.git
-cd flush-protocol
+git clone https://github.com/hanjun2/pee-shot.git
+cd pee-shot
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r web_django/requirements.txt
 .\.venv\Scripts\python.exe web_django/manage.py migrate
@@ -19,7 +19,7 @@ python -m venv .venv
 
 macOS / Linux에서는 `.\.venv\Scripts\python.exe` 대신 `.venv/bin/python`을 사용하세요.
 
-Git이 없다면 저장소의 **Code → Download ZIP**으로 내려받고 압축을 푼 뒤, `README.md`가 있는 폴더에서 터미널을 여세요. 위 명령 중 `git clone`과 `cd flush-protocol`을 건너뛰고 실행하면 됩니다.
+Git이 없다면 저장소의 **Code → Download ZIP**으로 내려받고 압축을 푼 뒤, `README.md`가 있는 폴더에서 터미널을 여세요. 위 명령 중 `git clone`과 `cd pee-shot`을 건너뛰고 실행하면 됩니다.
 
 ## 다시 실행하기 / 종료하기
 
